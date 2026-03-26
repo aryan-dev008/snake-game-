@@ -1,9 +1,3 @@
-<div align="center">
-
-<img src="banner.svg" alt="Snake Game Banner" width="100%"/>
-
-</div>
-
 ---
 
 <div align="center">
